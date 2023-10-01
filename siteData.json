@@ -10,8 +10,8 @@
         "benjamin-koh-zhao-hui": "Benjamin Koh Zhao Hui",
         "lim-jian-yang": "Lim Jian Yang",
         "lim-zhong-han": "Lim Zhong Han",
-        "jean-doe": "Jean Doe",
-        "james-doe": "James Doe"
+        "julius-gambe": "Julius Gambe",
+        "gabriel-seethor-jun-hao": "Gabriel Seethor Jun Hao"
       },
       "headingKeywords": {}
     },
@@ -40,7 +40,7 @@
       "src": "DeveloperGuide.md",
       "title": "Developer Guide",
       "headings": {
-        "ab-3-developer-guide": "AB-3 Developer Guide",
+        "homeboss-developer-guide": "HomeBoss Developer Guide",
         "acknowledgements": "Acknowledgements",
         "setting-up-getting-started": "Setting up, getting started",
         "design": "Design",
@@ -111,10 +111,12 @@
         "-2": "",
         "features": "Features",
         "user": "User",
-        "login": "Login",
-        "logout": "Logout",
         "register": "Register",
-        "-3": "",
+        "login": "Login",
+        "forget-password-coming-soon": "Forget Password [coming soon]",
+        "logout": "Logout",
+        "change-password-coming-soon": "Change Password [coming soon]",
+        "delete-account-coming-soon": "Delete Account [coming soon]",
         "customer": "Customer",
         "add-a-customer": "Add a customer",
         "list-customers": "List customers",
@@ -151,6 +153,11 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/gabriel4357.md",
+      "headings": {},
+      "headingKeywords": {}
+    },
+    {
       "src": "team/jianyangg.md",
       "title": "Lim Jian Yang's Project Portfolio Page",
       "headings": {
@@ -159,10 +166,10 @@
       "headingKeywords": {}
     },
     {
-      "src": "team/johndoe.md",
-      "title": "John Doe's Project Portfolio Page",
+      "src": "team/juliusgambe.md",
+      "title": "Julius Gambe's Project Portfolio Page",
       "headings": {
-        "project-addressbook-level-3": "Project: AddressBook Level 3"
+        "project-homeboss": "Project: HomeBoss"
       },
       "headingKeywords": {}
     },
